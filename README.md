@@ -8,7 +8,7 @@
 # 🌐 Socials:
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shibli.nomani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nomani_shibli/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khan-md-shibli-nomani-45445612b/) [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/WP6Qru0Pdo5Z?fbclid=IwAR3pPqMJC-lSbjuC5nf5w6NlS9BWxA1r1FmDS_b3sL1vQGZS2SscACVkVok)
 
-#🧑‍💻 Developer/Forums
+# 🧑‍💻 Developer/Forums:
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nomaniaiub) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shiblinomani)
 
 # 💻 Tech Stack:
