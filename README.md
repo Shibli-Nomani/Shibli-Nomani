@@ -1,4 +1,3 @@
-![counter](https://[https://github.com/Shibli-Nomani].m.pipedream.net)
 - 👋 Hi, I’m @Shibli-Nomani
 - 👀 I’m interested in Telecommunication, Data Science, Artifical Intellegence, Information and Technology. I love travelling, listening Music, drinking coffee and eating chocolate.
 - 🌱 I’m currently learning Data Science
