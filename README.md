@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shibli-Nomani
 - 👀 I’m interested in Telecommunication, Data Science, Artifical Intellegence, Information and Technology. I love travelling, listening Music, drinking coffee and eating chocolate.
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning and Artificial intelligence Project to ehnance my skill.
 - 📫 How to reach me nomaniaiub@gmail.com
 
