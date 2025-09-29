@@ -2,7 +2,8 @@
 - 👀 I’m interested in Telecommunication, Data Science, Artifical Intellegence, Information and Technology. I love travelling, listening Music, drinking coffee and eating chocolate.
 - 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning and Artificial intelligence Project to ehnance my skill.
-- 📫 How to reach me nomaniaiub@gmail.com
+- 📫 How to reach me nomaniaiub@gmail.com, kmshiblinomanii@gmail.com
+- ⛄ My ORCID ID: https://orcid.org/0009-0001-0867-5817
 
 
 # 🌐 Socials:
@@ -22,6 +23,22 @@
 
 # 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shibli-Nomani)](https://github.com/ryo-ma/github-profile-trophy)
+
+# 📄 Research Publications (IEEE, ACM, Springer)
+ACM
+🔹 Sugarcane Leaf Disease Detection: A Comparative Analysis Using Deep Learning
+DOI: 10.1145/3723178.3723197
+
+IEEE
+🔹 Cybersecurity Enhancement: Comprehensive Analysis of Machine Learning Models and Conventional Methods for Phishing URL Detection with Automated Domain Blocking
+DOI: 10.1109/icmi65310.2025.11141042
+
+🔹 Human and AI Written Text Detection Using Deep Learning and Machine Learning
+DOI: 10.1109/ICCIT64611.2024.11022524
+
+Springer
+🔹 A Bone Fracture Detection Using CNN Model
+DOI: 10.1007/978-3-031-82156-1_1
   
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/shiblinomani) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shiblinomani) 
