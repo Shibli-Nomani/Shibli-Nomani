@@ -28,9 +28,13 @@
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 
 # 🏆 GitHub Trophies:
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shibli-Nomani&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shibli-Nomani&show_icons=true&theme=radical" alt="Shibli's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shibli-Nomani&theme=radical" alt="Shibli's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shibli-Nomani&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 # 🚀 Few Hightlighting AI/ML/DS Projects with Git Repodetails 
 
