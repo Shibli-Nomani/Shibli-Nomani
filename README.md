@@ -66,23 +66,24 @@
 
 # 📄 Research Publications
 
-- **ACM**  
-  🔹 *Sugarcane Leaf Disease Detection: A Comparative Analysis Using Deep Learning*  
+## 📚 ACM
+- 🔹 *Sugarcane Leaf Disease Detection: A Comparative Analysis Using Deep Learning*  
   [DOI: 10.1145/3723178.3723197](https://dl.acm.org/doi/10.1145/3723178.3723197)
 
-- **IEEE**  
-  🔹 *Cybersecurity Enhancement: Comprehensive Analysis of Machine Learning Models and Conventional Methods for Phishing URL Detection with Automated Domain Blocking*  
-  [DOI: 10.1109/icmi65310.2025.11141042](https://ieeexplore.ieee.org/document/11141042)  
-  🔹 *Human and AI Written Text Detection Using Deep Learning and Machine Learning*  
+## 📚 IEEE
+- 🔹 *Cybersecurity Enhancement: Comprehensive Analysis of Machine Learning Models and Conventional Methods for Phishing URL Detection with Automated Domain Blocking*  
+  [DOI: 10.1109/icmi65310.2025.11141042](https://ieeexplore.ieee.org/document/11141042)
+- 🔹 *Human and AI Written Text Detection Using Deep Learning and Machine Learning*  
   [DOI: 10.1109/ICCIT64611.2024.11022524](https://doi.org/10.1109/ICCIT64611.2024.11022524)
-  🔹 *DDoS Attack Detection for Network and Transport Layer using SIEM for Deeper Analysis*
+- 🔹 *DDoS Attack Detection for Network and Transport Layer using SIEM for Deeper Analysis*  
   [DOI: 10.1109/STI69347.2025.11367560](https://ieeexplore.ieee.org/document/11367560)
-  🔹 *Traffic Management using YOLO for Vehicle Fitness and License Plate Detection with Automated Alert System*
+- 🔹 *Traffic Management using YOLO for Vehicle Fitness and License Plate Detection with Automated Alert System*  
   [DOI: 10.1109/COMPAS67506.2025.11381761](https://ieeexplore.ieee.org/document/11381761)
-  
-- **Springer**  
-  🔹 *A Bone Fracture Detection Using CNN Model*  
+
+## 📚 Springer
+- 🔹 *A Bone Fracture Detection Using CNN Model*  
   [DOI: 10.1007/978-3-031-82156-1_1](https://link.springer.com/chapter/10.1007/978-3-031-82156-1_1)
+
 
   
 ## 💰 You can help me by Donating
