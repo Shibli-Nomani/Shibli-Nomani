@@ -30,9 +30,13 @@
 # 🏆 GitHub Trophies:
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shibli-Nomani&show_icons=true&theme=radical" alt="Shibli's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Shibli-Nomani&show_icons=true&theme=radical" alt="Shibli's GitHub Stats" /> -->
+ ![🏆 Top Language](https://img.shields.io/badge/Top%20Language-Python-yellow)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shibli-Nomani&theme=radical" alt="Shibli's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shibli-Nomani&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shibli-Nomani&layout=compact&theme=radical" alt="Top Languages" /> -->
+ <a href="https://github.com/Shibli-Nomani">
+    <img src="./assets/trophies/trophy3.svg" width="80"/>
+  </a>
 </p>
 
 
